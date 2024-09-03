@@ -11,3 +11,5 @@ after commit we will see that
 we are few steps ahead to our GItHub repo so, we push new files to git 
 {files from local to remote}
 git push -u origin main
+
+by default remote repo name is => "origin" we can also change it
