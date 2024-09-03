@@ -1,0 +1,12 @@
+newfile = untracked
+if we change content in file = modified
+file redy to be commited = staged
+
+git add <file name>
+when we add file => staged
+git commit -m "your message"
+commit them => unchanged
+
+after commit we will see that 
+we are few steps ahead to our GItHub repo so, we push new files to git
+git push -u origin main

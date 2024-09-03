@@ -1,6 +1,8 @@
 # info
 This is basic info about GIT
 <br>
+<img src="Img/Git.png">
+<br>
 …or create a new repository on the command line<br>
 echo "# Info" >> README.md<br>
 git init<br>
@@ -13,3 +15,5 @@ git push -u origin main<br>
 git remote add origin https://github.com/UmeshSamartapu/info.git<br>
 git branch -M main<br>
 git push -u origin main<br>
+
+ThankYou !
